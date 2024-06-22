@@ -25,7 +25,7 @@ To edit this repository in MakeCode.
 This zune has custom music.
 Use the joystick and move it in a direction.
 Up, down, left, and right all have a different song.
-![Screenshot 2024-06-22 5 36 51 PM](https://github.com/isawesom3/custom_ZUNE/assets/173570795/7070851b-1090-42b0-9181-9c1091b1cea8)
+![Screenshot 2024-06-22 5 36 51 PM (1)](https://github.com/isawesom3/custom_ZUNE/assets/173570795/ca34834b-8433-4f09-9b87-f23bffcbec1e)
 
 ## Blocks preview
 
