@@ -20,6 +20,13 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/isawesom3/custom_zune** and click import
 
+## Instructions
+
+This zune has custom music.
+Use the joystick and move it in a direction.
+Up, down, left, and right all have a different song; which also means a different backround.
+![Screenshot 2024-06-22 5 36 51 PM](https://github.com/isawesom3/custom_ZUNE/assets/173570795/7070851b-1090-42b0-9181-9c1091b1cea8)
+
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
