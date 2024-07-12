@@ -1,7 +1,9 @@
  
 
 
-> Open this page at [https://isawesom3.github.io/custom_zune/](https://isawesom3.github.io/custom_zune/)
+> Open this page by copying this link:
+
+##https://isawesom3.github.io/custom_zune/
 
 ## Instructions
 
