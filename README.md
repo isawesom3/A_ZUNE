@@ -14,4 +14,6 @@ Up, down, left, and right all have a different song.
 
 ## Blocks preview
 
-heres a picture of the code in blocks
+heres a picture of the code in javascript:
+
+
