@@ -3,7 +3,7 @@
 
 > Open this page by using this link:
 
-https://makecode.com/_9rv1P93cECMt
+[https://makecode.com/_9rv1P93cECMt](https://makecode.com/_dzsMePhqR7b3)
 
 ## Instructions
 
