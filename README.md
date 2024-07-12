@@ -1,9 +1,9 @@
  
 
 
-> Open this page by copying this link:
+> Open this page by using this link:
 
-https://isawesom3.github.io/custom_zune/
+https://makecode.com/_9rv1P93cECMt
 
 ## Instructions
 
