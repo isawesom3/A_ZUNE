@@ -12,7 +12,6 @@ Up, down, left, and right all have a different song.
 
 ## Blocks preview
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+heres a picture of the code in blocks
 
 ![A rendered view of the blocks](https://github.com/isawesom3/custom_zune/raw/master/.github/makecode/blocks.png)
